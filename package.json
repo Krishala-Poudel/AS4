@@ -1,12 +1,12 @@
 {
-  "name": "as2",
+  "name": "as3",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Krishala Poudel",
   "license": "ISC",
   "description": "",
   "dependencies": {
